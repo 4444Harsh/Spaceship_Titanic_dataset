@@ -89,14 +89,3 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ## Conclusion
 
 Logistic regression proved to be an effective model for classifying whether passengers were transported to another dimension based on the given features. Further improvement could be achieved by experimenting with different algorithms and fine-tuning hyperparameters.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### How to Use:
-- Replace the placeholder values such as repository links, accuracy score, and your username with actual values from your project.
-- You can add sections like **Future Work**, **Contributing**, and **Acknowledgements** if needed.
-
-Let me know if you'd like any other customizations!
